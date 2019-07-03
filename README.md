@@ -1,6 +1,9 @@
 # K2Documentation.Samples.SmartObjects.Authoring
 Sample code that demonstrates how to programmatically author and deploy SmartObjects using code.
 
+Find more information in the K2 Developers Reference here:
+https://help.k2.com/onlinehelp/k2five/DevRef/current/default.htm#Designtime/SmO-Create.html
+
 This project contains sample code that demonstrates how to programmatically work with SmartObjects: 
 * Author a SmartObject
 * Deploy a SmartObject
